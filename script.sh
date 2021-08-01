@@ -1,3 +1,3 @@
 #! /bin/sh
 ls
-npm run static-run -l 3000
+npm run static-run -- -l 3000
