@@ -1,8 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 
-**/node_modules
-**/test
-**/__mocks__
-**/.storybook
+/node_modules/
+/test/
+/__mocks__/
+/.storybook/
 
+/.idea/
